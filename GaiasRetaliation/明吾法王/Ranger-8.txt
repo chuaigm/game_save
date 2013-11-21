@@ -1,0 +1,12 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "")
+
+    -load XUUKBkT4GcaRnfdBdUZcLnGEeyGf9z2HDb7PyzUwYRVY9kYtnBQfUZA5pQQ45835DfbQysw5D93an    
+
+//" )
+	call PreloadEnd( 0.0 )
+
+endfunction
+
+
