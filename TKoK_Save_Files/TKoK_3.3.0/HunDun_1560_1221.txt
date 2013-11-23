@@ -1,0 +1,23 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "
+Name: 明吾法王
+
+Class: 混沌骑士
+
+Level: 10
+
+Exp: 1560
+
+Gold: 1221
+
+Password: -load 
+
+4dMqM-YazOR-DaeOC-Jau27-bSMXj-tfUYa-CinSg-I2KvO-39n14-7xJx1-1rejC-FFMLo-4hTYp-Biq1M-Tfo7F-oQZJx-Rdm6j-ni
+
+Note: Ignore the text about" )
+	call PreloadEnd( 0.1 )
+
+endfunction
+
+

@@ -1,0 +1,33 @@
+function PreloadFiles takes nothing returns nothing
+
+	call Preload( "
+
+
+
+
+Name: 明吾法王
+
+
+Class: 牧师
+
+
+Level: 24
+
+
+Exp: 8711
+
+
+Gold: 2118
+
+
+Password:-load 
+2JccQ-qgFD6-EgMJF-REX3i-YgOZv-4zoAJ-2IY5U-t7N2w-DDtG3-PMQYq-ft2Ds-g66lk-OaMEx-jLKL7-3ogFq-8sQCK-kgzCk-e
+
+
+
+Note: Ignore the text about Preloading," )
+	call PreloadEnd( 0.1 )
+
+endfunction
+
+
